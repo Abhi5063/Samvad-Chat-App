@@ -191,7 +191,7 @@ To connect the frontend to the backend, add this to your HTML:
 
 ## Features
 
-✨ **Implemented Features:**
+**Implemented Features:**
 
 - Real-time messaging with Socket.IO
 - Anonymous messaging toggle
